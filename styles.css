@@ -27,3 +27,6 @@
 .col-lg {
   padding-bottom: 5px;
 }
+.img-thumbnail {
+  border: none !important;
+}
