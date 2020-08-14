@@ -1,7 +1,3 @@
-.name {
-  color: teal;
-}
-#menu {
-  color: tomato;
-  font-family: "Sriracha";
+.row {
+  padding-bottom: 10px;
 }
